@@ -28,3 +28,6 @@
 * Material UI
 * Tailwind
 * GIT
+* Redux
+* Redux-thunk
+* React Query
