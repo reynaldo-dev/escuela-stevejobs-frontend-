@@ -1,0 +1,18 @@
+
+
+export const types = {
+
+    // Auth
+    AUTH_LOGIN_REQUEST: 'AUTH_LOGIN_REQUEST',
+    AUTH_LOGIN_SUCCESS: 'AUTH_LOGIN_SUCCESS',
+    AUTH_REGISTER: 'AUTH_REGISTER',
+
+
+    // docentes
+    DOCENTES_GET_ALL: 'DOCENTES_GET_ALL',
+    DOCENTES_GET_FILTER: 'DOCENTES_GET_FILTER',
+
+    // alumnos
+    ALUMNOS_GET_ALL: 'ALUMNOS_GET_ALL',
+
+}
